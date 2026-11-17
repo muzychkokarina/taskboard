@@ -40,3 +40,6 @@ TaskBoard дозволяє створювати завдання, ставити
 ## Скріншот
 
 ![Головна сторінка](images/logo.png)
+## Демо
+
+[Відкрити сайт](https://muzychkokarina.github.io/taskboard/)
